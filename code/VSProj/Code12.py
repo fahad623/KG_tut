@@ -55,7 +55,9 @@ if __name__ == '__main__':
     df_train_Y.to_csv("..\\..\\data\\y_predict.csv", index = False)
 
 
-
+#[Parallel(n_jobs=8)]: Done  40 out of  40 | elapsed: 10.0min finished
+#gs.best_params_ = {'n_estimators': 25}, gs.best_score_ = 0.507936507937
+#Score = 1.0
 
 
 
