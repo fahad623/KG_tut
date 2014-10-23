@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1df2aec4-f0e9-4e08-b3be-b89574dcdde0</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Code1.py</StartupFile>
+    <StartupFile>Code4.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Code1.py" />
+    <Compile Include="Code2.py" />
+    <Compile Include="Code3.py" />
+    <Compile Include="Code4.py" />
     <Compile Include="test1.py" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
