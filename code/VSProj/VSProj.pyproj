@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>1df2aec4-f0e9-4e08-b3be-b89574dcdde0</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Code4.py</StartupFile>
+    <StartupFile>Code12.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,9 +23,17 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Code1.py" />
+    <Compile Include="Code10.py" />
+    <Compile Include="Code11.py" />
+    <Compile Include="Code12.py" />
     <Compile Include="Code2.py" />
     <Compile Include="Code3.py" />
     <Compile Include="Code4.py" />
+    <Compile Include="Code5.py" />
+    <Compile Include="Code6.py" />
+    <Compile Include="Code7.py" />
+    <Compile Include="Code8.py" />
+    <Compile Include="Code9.py" />
     <Compile Include="test1.py" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
